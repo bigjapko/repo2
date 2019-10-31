@@ -28,18 +28,10 @@ polopokpkp
 
 
 
-proc 1
-
-
+proc 2 
 bleble
-
-
 end
 
-
-
-
-proc 2 
-
+proc 1
 bleble
 end
